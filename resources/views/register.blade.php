@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Registro - SakuraRead')
+@section('title', 'Registro - NovelAsia')
 
 @section('content')
      {{-- Background Pattern (Specific for Auth pages) --}}
@@ -50,7 +50,7 @@
                                 <span class="material-symbols-outlined text-4xl text-primary">person_add</span>
                             </div>
                             <h2 class="text-2xl md:text-3xl font-display font-bold text-white mb-2">Crear Cuenta</h2>
-                            <p class="text-slate-400 text-sm">Únete a la comunidad SakuraRead</p>
+                            <p class="text-slate-400 text-sm">Únete a la comunidad NovelAsia</p>
                         </div>
 
                         {{-- Desktop Header --}}

@@ -6,7 +6,7 @@
                     <div class="size-10 bg-primary rounded-xl flex items-center justify-center text-white shadow-lg sakura-glow">
                         <span class="material-symbols-outlined text-2xl">psychology_alt</span>
                     </div>
-                    <h1 class="text-2xl font-display font-bold tracking-tight bg-gradient-to-r from-primary to-indigo-400 bg-clip-text text-transparent">SakuraRead</h1>
+                    <h1 class="text-2xl font-display font-bold tracking-tight bg-gradient-to-r from-primary to-indigo-400 bg-clip-text text-transparent">NovelAsia</h1>
                 </a>
             </div>
             
@@ -90,7 +90,7 @@
             <div class="size-8 bg-primary rounded-lg flex items-center justify-center text-white shadow-lg">
                 <span class="material-symbols-outlined text-lg">psychology_alt</span>
             </div>
-            <h1 class="text-lg font-bold tracking-tight bg-gradient-to-r from-primary to-indigo-400 bg-clip-text text-transparent">SakuraRead</h1>
+            <h1 class="text-lg font-bold tracking-tight bg-gradient-to-r from-primary to-indigo-400 bg-clip-text text-transparent">NovelAsia</h1>
         </div>
         
         @if(request()->is('dashboard'))

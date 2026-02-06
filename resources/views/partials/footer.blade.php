@@ -5,7 +5,7 @@
                     <div class="size-10 bg-primary rounded-xl flex items-center justify-center text-white shadow-lg">
                         <span class="material-symbols-outlined text-2xl">psychology_alt</span>
                     </div>
-                    <h1 class="text-2xl font-display font-bold tracking-tight bg-gradient-to-r from-primary to-indigo-400 bg-clip-text text-transparent">SakuraRead</h1>
+                    <h1 class="text-2xl font-display font-bold tracking-tight bg-gradient-to-r from-primary to-indigo-400 bg-clip-text text-transparent">NovelAsia</h1>
                 </div>
                 <p class="text-slate-400 text-sm leading-relaxed max-w-sm mb-6">
                     El destino definitivo para entusiastas de las Novelas Ligeras. Descubre miles de historias y únete a una comunidad global.
@@ -31,6 +31,6 @@
             </div>
         </div>
         <div class="max-w-[1440px] mx-auto px-8 mt-12 md:mt-16 pt-8 border-t border-white/5 text-center text-xs text-slate-500">
-            © 2026 SakuraRead. Todos los derechos reservados.
+            © 2026 NovelAsia. Todos los derechos reservados.
         </div>
     </footer>

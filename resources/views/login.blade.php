@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Iniciar Sesión - SakuraRead')
+@section('title', 'Iniciar Sesión - NovelAsia')
 
 @section('content')
     {{-- Background Pattern (Specific for Auth pages) --}}

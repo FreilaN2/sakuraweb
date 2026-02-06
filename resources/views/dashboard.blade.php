@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Dashboard - SakuraRead')
+@section('title', 'Dashboard - NovelAsia')
 
 @section('content')
     <main class="pt-20 md:pt-24 max-w-[1440px] mx-auto px-4 md:px-8 lg:px-12">
